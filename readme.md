@@ -9,6 +9,7 @@
 ### WiFi
 SSID: MSFTOPEN
 
+### Links
 Microsoft Cognitive Services: Introducing the Seeing AI project 
 [https://www.youtube.com/watch?v=R2mC-NUAmMk](https://www.youtube.com/watch?v=R2mC-NUAmMk)
 
