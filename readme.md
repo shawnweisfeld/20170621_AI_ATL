@@ -7,7 +7,7 @@
 - Shawn Weisfeld - Shawn.Weisfeld@microsoft.com
 
 ### WiFi
-SSID: MSFTOPEN
+SSID: MSFTGUEST password: msevent64yq
 
 ### Links
 Microsoft Cognitive Services: Introducing the Seeing AI project 
